@@ -2,11 +2,17 @@
 
 Task 1 - 10
 
-    npm run start
+    npm run start&
 
-Task 11 - 
+Task 11 - 13
 
-    node 
+    npm run start&
+    node task10.js
+    node task11.js <ISBN>
+    node task12.js <author>
+    node task13.js <title>
+
+See screenshots.
 
 ## Task 1:
 
